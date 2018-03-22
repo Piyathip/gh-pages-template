@@ -7,5 +7,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
-    -title: pza
-    url: / pza.html
+   - title: pza
+    url: pza
